@@ -1,4 +1,4 @@
-![AI Saas Base App Template](https://github.com/user-attachments/assets/c8113507-2db1-4a24-8dc7-0579121936e3)
+![Template GitHub Banner](https://github.com/user-attachments/assets/075e2f93-6724-43d3-8f75-799148f79382)
 
 ## Why did we open-source this?
 Everyone has ideas. And we decided to make that initial phase of bringing your ideas to life much easier.

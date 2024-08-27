@@ -1,6 +1,4 @@
-# AISaaSBaseApp - NextJS + Python (FastAPI) + MongoDB + Gemini 
-
-![image](https://github.com/user-attachments/assets/e7151dfc-1663-4e04-acae-72e9d075ed2e)
+![AI Saas Base App Template](https://github.com/user-attachments/assets/c8113507-2db1-4a24-8dc7-0579121936e3)
 
 ## Why did we open-source this?
 Everyone has ideas. And we decided to make that initial phase of bringing your ideas to life much easier.
